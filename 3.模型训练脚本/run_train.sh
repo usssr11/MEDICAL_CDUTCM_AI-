@@ -1,0 +1,1 @@
+python train.py --data_dir ./zhongyiyao --batch_size 32

@@ -1,0 +1,1 @@
+python predict.py --input_image ./zhongyiyao/train/ph_sz/IMG_3386.JPG --pretrained_path ./BestCheckpoint/resnet50-best.ckpt
